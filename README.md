@@ -68,6 +68,4 @@ This repository features three iterations of a "YouTube Video Manager" to demons
 * **Libraries:** `json`, `sqlite3`, `pymongo`, `requests` (for APIs)
 
 ---
-<p align="center">
   *Created by [Pushti Kadia](https://github.com/pushtikadia)*
-</p>

@@ -69,5 +69,5 @@ This repository features three iterations of a "YouTube Video Manager" to demons
 
 ---
 <p align="center">
-  Created by <b>[Pushti Kadia](https://github.com/pushtikadia)</b>
+  *Created by <b>[Pushti Kadia](https://github.com/pushtikadia)</b>*
 </p>
